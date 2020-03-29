@@ -1,0 +1,13 @@
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\bin\Debug\netcoreapp3.1\CShp_Calculation.exe
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\bin\Debug\netcoreapp3.1\CShp_Calculation.deps.json
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\bin\Debug\netcoreapp3.1\CShp_Calculation.runtimeconfig.json
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\bin\Debug\netcoreapp3.1\CShp_Calculation.runtimeconfig.dev.json
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\bin\Debug\netcoreapp3.1\CShp_Calculation.dll
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\bin\Debug\netcoreapp3.1\CShp_Calculation.pdb
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\obj\Debug\netcoreapp3.1\CShp_Calculation.csprojAssemblyReference.cache
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\obj\Debug\netcoreapp3.1\CShp_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\obj\Debug\netcoreapp3.1\CShp_Calculation.AssemblyInfoInputs.cache
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\obj\Debug\netcoreapp3.1\CShp_Calculation.AssemblyInfo.cs
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\obj\Debug\netcoreapp3.1\CShp_Calculation.dll
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\obj\Debug\netcoreapp3.1\CShp_Calculation.pdb
+C:\Users\orion\Documents\Cadulox\Github\test-driven-development-csharp\CShp_Calculation\CShp_Calculation\obj\Debug\netcoreapp3.1\CShp_Calculation.genruntimeconfig.cache
