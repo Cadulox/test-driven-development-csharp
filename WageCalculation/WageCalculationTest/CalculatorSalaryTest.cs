@@ -11,7 +11,7 @@ namespace WageCalculationTest
     public class CalculatorSalaryTest
     {
         [Test]
-        public void ShouldCalculateSalaryForDevelopersWithSalaryBelowTheLimit()
+        public void Should_Calculate_Salary_For_Developers_With_Salary_Below_The_Limit()
         {
             CalculatorSalary calculator = new CalculatorSalary();
             Worker developer = new Worker
@@ -23,7 +23,7 @@ namespace WageCalculationTest
         }
 
         [Test]
-        public void ShouldCalculateSalaryForDevelopersWithSalaryAboveTheLimit()
+        public void Should_Calculate_Salary_For_Developers_With_Salary_Above_The_Limit()
         {
             CalculatorSalary calculator = new CalculatorSalary();
             Worker developer = new Worker
@@ -35,15 +35,27 @@ namespace WageCalculationTest
         }
 
         [Test]
-        public void ShouldCalculateSalaryForDBAsWithSalaryBelowTheLimit()
+        public void Should_Calculate_Salary_For_DBAs_With_Salary_Below_The_Limit()
         {
             CalculatorSalary calculator = new CalculatorSalary();
             Worker dba = new Worker
-                ("Joao", 500.0, Role.DBA);
+                ("Joao", 1500.0, Role.DBA);
 
             double salary = calculator.CalculateSalary(dba);
 
-            Assert.AreEqual(500.0 * 0.85, salary, 0.00001);
+            Assert.AreEqual(1500.0 * 0.85, salary, 0.00001);
+        }
+
+        [Test]
+        public void Should_Calculate_Salary_For_DBAs_With_Salary_Above_The_Limit()
+        {
+            CalculatorSalary calculator = new CalculatorSalary();
+            Worker dba = new Worker
+                ("Caio", 4500.0, Role.DBA);
+
+            double salary = calculator.CalculateSalary(dba);
+
+            Assert.AreEqual(4500.0 * 0.75, salary, 0.00001);
         }
     }
 }
